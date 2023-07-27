@@ -1,2 +1,2 @@
 # HolaMundo
-Ejercicio para crear un repositorio, este es el link https://docs.github.com/es/get-started/quickstart/hello-world
+Este es el Readme de la rama "Readme-edits", que tuve que editar para que fuera diferente al Readme del Main.
